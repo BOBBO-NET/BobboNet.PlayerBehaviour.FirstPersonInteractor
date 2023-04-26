@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace BobboNet.Player
+namespace BobboNet.PlayerBehaviours
 {
     public class PlayerBehaviourFirstPersonInteractor : PlayerBehaviour
     {
